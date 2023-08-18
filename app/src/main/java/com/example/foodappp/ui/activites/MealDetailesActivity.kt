@@ -27,7 +27,7 @@ class MealDetailesActivity : AppCompatActivity() {
     private var mealThumb = ""
     private var ytUrl = ""
     private lateinit var dtMeal:MealDetail
- 
+
 
 
     override fun onCreate(savedInstanceState: Bundle?) {

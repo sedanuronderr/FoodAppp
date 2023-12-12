@@ -1,4 +1,5 @@
 # Food App
+## Coroutines,Retrofit,Mvvm,Fragment ,Room Jetpack libraries were used in the project.
 <table>
    
 <tr>
